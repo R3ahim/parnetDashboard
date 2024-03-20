@@ -1,0 +1,20 @@
+.quantity-buttons button {
+    padding: 5px 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+
+}
+.quantity-buttons button:hover {
+    background-color: #0056b3;
+}
+.quant{
+    width:80px;
+    margin-left: 2px;
+    margin-left: 2px;
+ }
+ .quantity-buttons{
+  
+ }
